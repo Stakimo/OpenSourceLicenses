@@ -7,9 +7,6 @@ This project uses certain open-source components. Below is a list of these compo
 ## TinyMCE
 
 **License**: MIT  
-**Copyright (c) 2022** Ephox Corporation DBA Tiny Technologies, Inc.
-MIT License
-
 Copyright (c) 2022 Ephox Corporation DBA Tiny Technologies, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
